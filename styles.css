@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.player_one{
+	background-color:  rgb(255, 255, 255);
+	border-radius: 8px;
+	 padding:10px;
+	border-color: 1px solid black;
+	 border-style: solid;
+}
+.player_two{
+	background-color:  rgb(255, 255, 255);
+	border-radius: 8px;
+	 padding:10px;
+	border-color: 1px solid black;
+	 border-style: solid;
+}
+   li {
+            margin: 10px 0;
+        }
+  a {
+            text-decoration-line: none;
+        }
